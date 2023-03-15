@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create Homepage Banner",
+      "details": "lorem",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make Marketing Email",
+      "details": "lorem",
+      "complete": true
+    },
+    {
+      "title": "TXP banner",
+      "details": "need to create a TXP banner ",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
